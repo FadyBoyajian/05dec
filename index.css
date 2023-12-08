@@ -1,0 +1,91 @@
+*{
+    margin-top: 0%;
+}
+.nav-bar{
+    width: 100%;
+    height: 5%;
+    background-color: rgb(236, 236, 236);
+    position:fixed;
+    display: block;
+    z-index: 5;
+}
+.icon{
+    display: inline;
+    padding-left: 10px;
+}
+.search{
+    display: inline;
+    padding-left: 35% ;
+    padding-top: none;
+    
+}
+.searchicon{
+    padding-top: 3px;
+}
+.icons{
+    display: inline;
+    float: right;
+    padding-right: 2%;
+}
+.side-bar{
+    width: 15%;
+    height: 100%;
+    background-color: rgb(236, 236, 236);
+    position: fixed;
+    margin-top: 2.5%;
+    display: inline-block;
+    z-index: 4;
+}
+.sb-tabs{
+    padding-left: 10%;
+    display: inline-block;
+    padding-bottom: 20px;
+    text-decoration: rgb(163, 39, 39);
+    text-decoration: none;
+    vertical-align:bottom;
+   
+}
+
+hr{
+    color: rgb(127, 136, 255);
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+  float: inline-start;
+  color:rgb(99, 98, 98);
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.videos{
+    width:83%;
+    height: auto;
+    position: absolute;
+    right: 1%;
+    top:8%
+}
+.vod-icon{
+    width: 60%;
+    height: 100%;
+    margin-left: 50px;
+}
+.vid-text{
+    display: inline-block;
+
+    
+}
+.vid1{
+    width: 33%;
+    height: 110%;
+    display: inline-block;
+}
+.vid2{
+    width: 33%;
+    height: 110%;
+    display: inline-block;
+}
+.vid3{
+    width: 33%;
+    height: 8%;
+    display: inline-block;
+}
